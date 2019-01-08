@@ -24,4 +24,7 @@ function maxChar(str) {
   return maxChar;
 }
 
+// for of to Array
+// for in to Object
+
 module.exports = maxChar;
